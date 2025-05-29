@@ -1,0 +1,6 @@
+{
+    "name": "Codespace mit Copilot",
+    "extensions": [
+      "GitHub.copilot"
+    ]
+  }

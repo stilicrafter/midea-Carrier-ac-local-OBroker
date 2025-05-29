@@ -2,5 +2,6 @@
     "name": "Codespace mit Copilot",
     "extensions": [
       "GitHub.copilot"
-    ]
-  }
+    ],
+    "postCreateCommand": "while true; do git fetch; sleep 60; done"
+}
